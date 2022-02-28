@@ -139,9 +139,9 @@ public class Game {
     text("1 PLAYER -- PRESS 1", width / 2, 238);
     text("2 PLAYERS -- PRESS 2", width / 2, 270);
     
-    text("BY TOMASZ KAPCIA", width / 2, 332);
-    text("INFORMATYKA    GR. G13", width / 2, 364);
-    text("1 SEM.    2020/2021", width / 2, 396);
+    text("BY TOMEK20225", width / 2, 332);
+    //text("NEW    LINE", width / 2, 364);
+    //text("NEW    LINE", width / 2, 396);
   }
   
   public void showGameOver() {
